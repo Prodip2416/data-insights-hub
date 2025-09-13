@@ -10,7 +10,7 @@
 
 **A comprehensive, enterprise-grade data visualization dashboard built with modern React patterns and professional export capabilities.**
 
-[🚀 Live Demo](#-quick-start) • [📖 Documentation](#-features) • [🛠️ Installation](#-installation) • [📁 Project Structure](#-project-structure)
+[🚀 Live Demo](https://prodip2416.github.io/data-insights-hub/) • [📖 Documentation](#-features) • [🛠️ Installation](#-installation) • [📁 Project Structure](#-project-structure)
 
 </div>
 
@@ -89,9 +89,11 @@
 
 ### **Quick Start**
 
+**🌐 [View Live Demo](https://prodip2416.github.io/data-insights-hub/)**
+
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/data-insights-hub.git
+   git clone https://github.com/prodip2416/data-insights-hub.git
    cd data-insights-hub
    ```
 
@@ -322,6 +324,6 @@ This project demonstrates:
 
 **Built with ❤️ using React, Chart.js, D3.js, and Tailwind CSS**
 
-[⭐ Star this repo](https://github.com/yourusername/data-insights-hub) • [🐛 Report Bug](https://github.com/yourusername/data-insights-hub/issues) • [💡 Request Feature](https://github.com/yourusername/data-insights-hub/issues)
+[⭐ Star this repo](https://github.com/prodip2416/data-insights-hub) • [🐛 Report Bug](https://github.com/prodip2416/data-insights-hub/issues) • [💡 Request Feature](https://github.com/prodip2416/data-insights-hub/issues)
 
 </div>
