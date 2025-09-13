@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/data-insights-hub/', // important!
+  base: '/data-insights-hub/',
 })

@@ -109,7 +109,7 @@ function App() {
         <ThemeProvider>
           <SettingsProvider>
             <NotificationProvider>
-              <Router>
+              <Router basename="/data-insights-hub">
                 <MainApp />
               </Router>
             </NotificationProvider>
